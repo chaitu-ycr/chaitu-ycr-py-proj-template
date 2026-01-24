@@ -1,10 +1,10 @@
 [project]
-name = "python_project_template"
-version = "0.1.2"
+name = "python-project-template"
+version = "26.0.0"
 description = "My Python Projects Template"
 license = { file = "LICENSE" }
 readme = "README.md"
-requires-python = ">=3.9, <=3.13"
+requires-python = ">=3.10, <=3.14"
 authors = [{ name = "chaitu-ycr", email = "chaitu.ycr@gmail.com" }]
 keywords = ["python", "template"]
 classifiers = [
@@ -36,9 +36,9 @@ dev = [
 ]
 
 [project.urls]
-homepage = "https://github.com/chaitu-ycr/python_project_template"
-repository = "https://github.com/chaitu-ycr/python_project_template"
-documentation = "https://chaitu-ycr.github.io/python_project_template/"
+homepage = "https://github.com/chaitu-ycr/python-project-template"
+repository = "https://github.com/chaitu-ycr/python-project-template"
+documentation = "https://chaitu-ycr.github.io/python-project-template/"
 
 [tool.uv]
 package = true

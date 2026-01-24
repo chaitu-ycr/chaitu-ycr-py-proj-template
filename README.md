@@ -1,4 +1,4 @@
-# python_project_template
+# python-project-template
 
 A template repository for Python 🐍 projects. This template includes a recommended project structure, automated testing, and documentation generation using [MkDocs](https://www.mkdocs.org/).
 
