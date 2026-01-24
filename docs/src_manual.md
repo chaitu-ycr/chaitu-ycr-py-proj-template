@@ -1,2 +1,2 @@
 
-::: src.python_project_template.app
+::: src.chaitu_ycr_py_proj_template.app

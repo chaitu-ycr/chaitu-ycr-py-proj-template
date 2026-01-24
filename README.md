@@ -1,4 +1,4 @@
-# python-project-template
+# chaitu-ycr-py-proj-template
 
 A template repository for Python 🐍 projects. This template includes a recommended project structure, automated testing, and documentation generation using [MkDocs](https://www.mkdocs.org/).
 
@@ -60,7 +60,7 @@ The documentation will be available at [http://localhost:8000](http://localhost:
 
 ```
 src/
-    python_project_template/
+    chaitu_ycr_py_proj_template/
         app.py
         __init__.py
 tests/

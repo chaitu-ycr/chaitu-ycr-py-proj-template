@@ -1,5 +1,5 @@
 [project]
-name = "python-project-template"
+name = "chaitu-ycr-py-proj-template"
 version = "26.0.0"
 description = "My Python Projects Template"
 license = { file = "LICENSE" }
@@ -36,9 +36,9 @@ dev = [
 ]
 
 [project.urls]
-homepage = "https://github.com/chaitu-ycr/python-project-template"
-repository = "https://github.com/chaitu-ycr/python-project-template"
-documentation = "https://chaitu-ycr.github.io/python-project-template/"
+homepage = "https://github.com/chaitu-ycr/chaitu-ycr-py-proj-template"
+repository = "https://github.com/chaitu-ycr/chaitu-ycr-py-proj-template"
+documentation = "https://chaitu-ycr.github.io/chaitu-ycr-py-proj-template/"
 
 [tool.uv]
 package = true

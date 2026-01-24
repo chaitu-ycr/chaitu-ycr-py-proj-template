@@ -1,7 +1,7 @@
 import subprocess
 import sys
 import pytest
-from python_project_template.app import App, AdvancedApp
+from chaitu_ycr_py_proj_template.app import App, AdvancedApp
 
 def test_app_initialization():
     app = App("TestApp")
@@ -34,7 +34,7 @@ def test_advanced_app_get_name():
 
 def test_app_main_block_output():
     result = subprocess.run(
-        [sys.executable, "-m", "python_project_template.app"],
+        [sys.executable, "-m", "chaitu_ycr_py_proj_template.app"],
         capture_output=True,
         text=True
     )
