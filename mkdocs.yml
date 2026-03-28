@@ -43,4 +43,4 @@ extra_css:
   - _assets/extra.css
 
 extra_javascript:
-  - https://unpkg.com/mermaid@10.10.0/dist/mermaid.min.js
+  - https://unpkg.com/mermaid@11.13.0/dist/mermaid.core.mjs
